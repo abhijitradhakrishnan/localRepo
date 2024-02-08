@@ -1,0 +1,10 @@
+body {
+    background-color: yellowgreen;
+    height: 80vh;
+    width: 80vw;
+    border: 1px solid goldenrod;
+}
+
+p {
+    color: red;
+}
